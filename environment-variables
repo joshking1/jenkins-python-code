@@ -1,0 +1,6 @@
+ It is important to keep sensitive information 
+ like usernames, passwords, and server URLs private and secure. 
+ One way to do this is to store these values in environment 
+ variables and load them into your script at runtime. 
+ Here is an example of how you could modify the script to use 
+ environment variables:
